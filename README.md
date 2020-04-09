@@ -1,7 +1,7 @@
 <img alt="GoStack" src="src/images/desafio.png" />
 
 <h3 align="center">
-  Desafio 02: Conceitos do Node.js
+  Desafio 03: Conceitos do ReactJS
 </h3>
 
 ## :rocket: Sobre o desafio
